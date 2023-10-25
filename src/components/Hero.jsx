@@ -26,7 +26,7 @@ const Hero = () => {
                   "A Developer",
                   "A Designer",
                   "A Creators",
-                  "Our Goal Is Develop Productive Software Develop According to Client Requirements",
+                  "Our Goal Is Develop Productive Software",
                 ],
                 autoStart: true,
                 loop: true,
